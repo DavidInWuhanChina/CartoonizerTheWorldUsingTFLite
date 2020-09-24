@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">卡通相机</string>
+    <string name="about">用.tflite模型卡通化图像</string>
+    <string name="tflite_model" translatable="false">TFLite Model:</string>
+    <string name="share_button_alt">Share</string>
+    <string name="save_button_alt">Save</string>
+    <string-array name="tflite_models" translatable="false">
+        <item>Model:White-box CartoonGan Dynamic Range</item>
+        <item>Model:White-box CartoonGan Dynamic Fp16</item>
+        <item>Model:White-box CartoonGan Int8</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="switch_camera">Switch camera</string>
+    <string name="Album">相册</string>
+</resources>

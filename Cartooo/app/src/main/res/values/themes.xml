@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.AppBarOverlay">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+<!--    <style name="AppTheme.PopupOverlay" parent="ThemeOverl" />-->
+    <style name="Theme.null.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
